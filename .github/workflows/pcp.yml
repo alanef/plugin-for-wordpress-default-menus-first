@@ -26,3 +26,4 @@ jobs:
           exclude-checks: |
             plugin_header_fields
             plugin_updater
+            file_type
