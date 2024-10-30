@@ -1,4 +1,4 @@
-# Wordpress Default Menus First Plugin
+# Plugin for WordPress Default Menus First
 
 **Contributors:** [alanef](https://github.com/alanef)  
 **Donate link:** https://ko-fi.com/wpalan  
@@ -11,7 +11,7 @@
 
 ## Description
 
-The **Wordpress Default Menus First Plugin** ensures that the default WordPress admin menus stay above any menus added by other plugins. This helps maintain a consistent and organized menu structure in your WordPress admin panel.
+The **Default Menus First Plugin** ensures that the default WordPress admin menus stay above any menus added by other plugins. This helps maintain a consistent and organized menu structure in your WordPress admin panel.
 
 ## Installation
 
