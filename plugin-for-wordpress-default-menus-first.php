@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Wordpress Default Menus First Plugin
-Plugin URI: https://github.com/alanef/wordpress-defualt-menus-first-plugin.php
-GitHub Plugin URI: https://github.com/alanef/wordpress-defualt-menus-first-plugin.php
-Update URI: https://github.com/alanef/wordpress-defualt-menus-first-plugin.php
-Description: Ensures that WordPress Default Menus stay above any added by plugins
+Plugin Name: Default Menus First
+Plugin URI: https://github.com/alanef/plugin-for-wordpress-default-menus-first
+GitHub Plugin URI: https://github.com/alanef/plugin-for-wordpress-default-menus-first
+Update URI: https://github.com/alanef/plugin-for-wordpress-default-menus-first
+Description: Ensures that WordPress Core Default Menus stay above any added by plugins
 Version: 1.0
 Author: Alan Fuller
 Author URI: https://fullworksplugins.com

@@ -11,11 +11,11 @@
 
 ## Description
 
-The **Default Menus First Plugin** ensures that the default WordPress admin menus stay above any menus added by other plugins. This helps maintain a consistent and organized menu structure in your WordPress admin panel.
+The **Default Menus First Plugin** ensures that the default core WordPress admin menus stay above any menus added by other plugins. This helps maintain a consistent and organized menu structure in your WordPress admin panel.
 
 ## Installation
 
-1. Download the zip file from [GitHub repository](https://github.com/alanef/wordpress-defualt-menus-first-plugin/archive/refs/heads/master.zip)
+1. Download the zip file from [GitHub repository](https://github.com/alanef/plugin-for-wordpress-default-menus-first/archive/refs/heads/master.zip)
 2. In your WordPress admin panel, navigate to `Plugins` > `Add New` and click the `Upload Plugin` button.
 3. Choose the downloaded ZIP file and click `Install Now`.
 4. After the installation is complete, activate the plugin through the `Plugins` screen in WordPress.
