@@ -5,7 +5,7 @@
 **Tags:** admin, menu, sorting  
 **Requires at least:** 4.6  
 **Tested up to:** 6.7  
-**Stable tag:** 1.1 
+**Stable tag:** 1.1  
 **License:** GPL2  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
