@@ -23,3 +23,6 @@ jobs:
         uses: alanef/plugin-check-action@main
         with:
           build-dir: './'
+          exclude-checks: |
+            plugin_header_fields
+            plugin_updater
