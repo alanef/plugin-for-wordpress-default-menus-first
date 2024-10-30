@@ -5,7 +5,7 @@
 **Tags:** admin, menu, sorting  
 **Requires at least:** 4.6  
 **Tested up to:** 6.7  
-**Stable tag:** 1.0  
+**Stable tag:** 1.1 
 **License:** GPL2  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,9 @@ No. Once activated, the plugin works automatically to sort the admin menus.
 You can use the [Git Updater](https://github.com/afragen/git-updater) plugin to receive updates directly from the GitHub repository. Ensure you have it installed and activated, then you will be notified of new updates.
 
 ## Changelog
+
+### 1.1
+* Ensure default menus are not inverted.
 
 ### 1.0
 * Initial release.
